@@ -1,6 +1,7 @@
 # Mi primer proyecto java
 
 Este es mi primer proyecto
-y soy  Army One y mi teléfono es .........
+y soy  Armando One gufrkljklklñkjklnn
+
 
 
